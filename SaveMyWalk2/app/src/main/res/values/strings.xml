@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SaveMyWalk</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">SaveMyWalk</string>
+    <string name="title_activity_saved_routes">Saved Routes</string>
+    <string name="title_activity_map">Map</string>
+
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="view_map">View Map</string>
+    <string name="save_last_route">Save Last Route</string>
+    <string name="view_saved_routes">View Saved Routes</string>
+
+    <string name="toggle_tracking_button">ToggleTrackingButton</string>
+    <string name="view_map_button">ViewMapButton</string>
+    <string name="save_route_button">SaveRouteButton</string>
+    <string name="view_saved_routes_button">ViewSavedRoutesButton</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="location_service_started">Now Tracking Location</string>
+    <string name="load_route">Load Route</string>
+    <string name="delete_route">Delete Route</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="default_dialog_prompt">Are you sure?</string>
+
+</resources>
